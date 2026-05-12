@@ -2,10 +2,6 @@
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
 
-
-Note: To prevent unauthorized use or plagiarism, this repository is currently hosted on a hidden URL (https://yudixiong.github.io/awesome/FCDR.html). The contents will be made publicly available on our main GitHub repository (https://github.com/YudiXiong/Awesome) immediately after acceptance at IJCAI 2026 survey track.
-
-
 <h5 align="center">
 
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) 
@@ -17,7 +13,6 @@ Note: To prevent unauthorized use or plagiarism, this repository is currently ho
 
 > We will try to make this list updated frequently. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
-> Our survey has been submitted by IJCAI 2026 survey track.
 
 ## What is Federated Cross-Domain Recommendation? 
 
