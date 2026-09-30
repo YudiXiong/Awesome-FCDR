@@ -189,7 +189,7 @@ As shown in Figure 1, FCDR integrates information from multiple domains (e.g., m
    <p align="center"><em>The framework of FedGCDR.</em></p>
    </details>
    
-* (_2025.01_) [TSC' 2025] **Federated Contrastive Learning for Cross-Domain Recommendation** [[Paper](https://ieeexplore.ieee.org/document/10842506)]
+* (_2025_) [TSC' 2025] **Federated Contrastive Learning for Cross-Domain Recommendation** [[Paper](https://ieeexplore.ieee.org/document/10842506)]
   
    <details close>
    <summary>Fed-CLR</summary>
@@ -197,7 +197,7 @@ As shown in Figure 1, FCDR integrates information from multiple domains (e.g., m
    <p align="center"><em>The framework of Fed-CLR.</em></p>
    </details>
    
-* (_2025.03_) [TMM' 2025] **Federated User Preference Modeling  for Privacy-Preserving Cross-Domain Recommendation** [[Paper](https://ieeexplore.ieee.org/document/10909694) | [Code](https://github.com/Lili1013/FUPM)]
+* (_2025_) [TMM' 2025] **Federated User Preference Modeling  for Privacy-Preserving Cross-Domain Recommendation** [[Paper](https://ieeexplore.ieee.org/document/10909694) | [Code](https://github.com/Lili1013/FUPM)]
   
    <details close>
    <summary>FUPM</summary>
@@ -205,7 +205,7 @@ As shown in Figure 1, FCDR integrates information from multiple domains (e.g., m
    <p align="center"><em>The framework of FUPM.</em></p>
    </details>
    
-* (_2025.04_) [AAAI' 2025] **Enhancing Healthcare Recommendations: A Privacy-Protective and Interpretable Cross-Domain Framework** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33322) | [Code](https://github.com/zyl-mc/HCR)]
+* (_2025_) [AAAI' 2025] **Enhancing Healthcare Recommendations: A Privacy-Protective and Interpretable Cross-Domain Framework** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33322) | [Code](https://github.com/zyl-mc/HCR)]
   
    <details close>
    <summary>HCR</summary>
@@ -213,7 +213,7 @@ As shown in Figure 1, FCDR integrates information from multiple domains (e.g., m
    <p align="center"><em>The framework of HCR.</em></p>
    </details>
    
-* (_2025.04_) [TKDE' 2025] **Camouflaged Variational Graph AutoEncoder Against Attribute Inference Attacks for Cross-Domain Recommendation** [[Paper](https://ieeexplore.ieee.org/document/10980364) | [Code](https://github.com/YudiXiong/CVGAE)]
+* (_2025_) [TKDE' 2025] **Camouflaged Variational Graph AutoEncoder Against Attribute Inference Attacks for Cross-Domain Recommendation** [[Paper](https://ieeexplore.ieee.org/document/10980364) | [Code](https://github.com/YudiXiong/CVGAE)]
   
    <details close>
    <summary>CVGAE</summary>
@@ -221,7 +221,7 @@ As shown in Figure 1, FCDR integrates information from multiple domains (e.g., m
    <p align="center"><em>The framework of CVGAE.</em></p>
    </details>
    
-* (_2025.05_) [arXiv' 2025] **FedGRec: Dynamic Spatio-Temporal Federated Graph Learning for Secure and Efficient Cross-Border Recommendations** [[Paper](https://arxiv.org/abs/2505.18177)]
+* (_2025_) [arXiv' 2025] **FedGRec: Dynamic Spatio-Temporal Federated Graph Learning for Secure and Efficient Cross-Border Recommendations** [[Paper](https://arxiv.org/abs/2505.18177)]
   
    <details close>
    <summary>FedGRec</summary>
@@ -229,7 +229,7 @@ As shown in Figure 1, FCDR integrates information from multiple domains (e.g., m
    <p align="center"><em>The framework of FedGRec.</em></p>
    </details>
    
-* (_2025.07_) [TIST' 2025] **A Federated Graph Neural Network with Differential Privacy for Cross-domain Recommender Systems** [[Paper](https://dl.acm.org/doi/10.1145/3742791)]
+* (_2025_) [TIST' 2025] **A Federated Graph Neural Network with Differential Privacy for Cross-domain Recommender Systems** [[Paper](https://dl.acm.org/doi/10.1145/3742791)]
   
    <details close>
    <summary>FGD-CDR</summary>
@@ -237,7 +237,7 @@ As shown in Figure 1, FCDR integrates information from multiple domains (e.g., m
    <p align="center"><em>The framework of FGD-CDR.</em></p>
    </details>
    
-* (_2025.11_) [KBS' 2025] **Parsilo-CDR: Privacy-aware cross-domain recommendation for data silo** [[Paper](https://www.sciencedirect.com/science/article/pii/S0950705125013887)]
+* (_2025_) [KBS' 2025] **Parsilo-CDR: Privacy-aware cross-domain recommendation for data silo** [[Paper](https://www.sciencedirect.com/science/article/pii/S0950705125013887)]
   
    <details close>
    <summary>Parsilo-CDR</summary>
@@ -245,12 +245,36 @@ As shown in Figure 1, FCDR integrates information from multiple domains (e.g., m
    <p align="center"><em>The framework of Parsilo-CDR.</em></p>
    </details>
    
-* (_2025.11_) [CIKM' 2025] **DT-FedSDC: A Dual-Target Federated Framework with Semantic Enhancement and Disentangled Contrastive Learning for Cross-Domain Recommendation** [[Paper](https://dl.acm.org/doi/10.1145/3746252.3761270)]
+* (_2025_) [CIKM' 2025] **DT-FedSDC: A Dual-Target Federated Framework with Semantic Enhancement and Disentangled Contrastive Learning for Cross-Domain Recommendation** [[Paper](https://dl.acm.org/doi/10.1145/3746252.3761270)]
   
    <details close>
    <summary>DT-FedSDC</summary>
    <p align="center"><img width="75%" src="Figures/DT-FedSDC.jpg" /></p>
    <p align="center"><em>The framework of DT-FedSDC.</em></p>
+   </details>
+
+* (_2026_) [Neural Networks' 2026] **FedPCL-CDR: A Federated Prototype-Based Contrastive Learning Framework for Privacy-Preserving Cross-Domain Recommendation** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025012614) | [Code](https://github.com/Lili1013/FedPCL_CDR)]
+  
+   <details close>
+   <summary>FedPCL-CDR</summary>
+   <p align="center"><img width="75%" src="Figures/FedPCL-CDR.png" /></p>
+   <p align="center"><em>The framework of FedPCL-CDR.</em></p>
+   </details>
+
+* (_2026_) [Neurocomputing' 2026] **Federated Intent-Aware Cross-Domain Recommendation via Semantic Alignment and Collaborative Enhancement** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225031145)]
+  
+   <details close>
+   <summary>FIACDR</summary>
+   <p align="center"><img width="75%" src="Figures/FIACDR.png" /></p>
+   <p align="center"><em>The framework of FIACDR.</em></p>
+   </details>
+
+* (_2026_) [Information Processing and Management' 2026] **FedCRF: A Federated Cross-Domain Recommendation Method with Semantic-Driven Deep Knowledge Fusion** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457326002189)]
+  
+   <details close>
+   <summary>FedCRF</summary>
+   <p align="center"><img width="75%" src="Figures/FedCRF.png" /></p>
+   <p align="center"><em>The framework of FedCRF.</em></p>
    </details>
 
 ## Explicit Feedback for FCDR
@@ -351,6 +375,14 @@ As shown in Figure 1, FCDR integrates information from multiple domains (e.g., m
    <p align="center"><img width="75%" src="Figures/Ogunseyi_etal.jpg" /></p>
    <p align="center"><em>The algorithm of Ogunseyi et al.</em></p>
    </details>
+
+* (_2024_) [Multimedia Tools and Applications' 2024] **A Personalized Cross-Domain Recommendation with Federated Meta Learning** [[Paper](https://link.springer.com/article/10.1007/s11042-024-18495-3)]
+
+    <details close>
+    <summary>PFMCDR</summary>
+    <p align="center"><img width="75%" src="Figures/PFMCDR.png" /></p>
+    <p align="center"><em>The framework of PFMCDR.</em></p>
+    </details>
    
 * (_2024_) [TKDE' 2024] **FedCORE:  Federated Learning for Cross-Organization Recommendation  Ecosystem** [[Paper](https://ieeexplore.ieee.org/document/10443503)]
 
@@ -376,7 +408,7 @@ As shown in Figure 1, FCDR integrates information from multiple domains (e.g., m
     <p align="center"><em>The framework of FedBP.</em></p>
     </details>
     
-* (_2025.04_) [WWW' 2025] **Privacy-Friendly Cross-Domain Recommendation via Distilling User-irrelevant Information** [[Paper](https://dl.acm.org/doi/10.1145/3696410.3714580) | [Code](https://github.com/walcheng/PFCDR)]
+* (_2025_) [WWW' 2025] **Privacy-Friendly Cross-Domain Recommendation via Distilling User-irrelevant Information** [[Paper](https://dl.acm.org/doi/10.1145/3696410.3714580) | [Code](https://github.com/walcheng/PFCDR)]
 
     <details close>
     <summary>PFCDR</summary>
@@ -384,7 +416,7 @@ As shown in Figure 1, FCDR integrates information from multiple domains (e.g., m
     <p align="center"><em>The framework of PFCDR.</em></p>
     </details>
     
-* (_2025.04_) [WWW' 2025] **P4GCN: Vertical Federated Social Recommendation with Privacy-Preserving Two-Party Graph Convolution Network** [[Paper](https://dl.acm.org/doi/abs/10.1145/3696410.3714721)]
+* (_2025_) [WWW' 2025] **P4GCN: Vertical Federated Social Recommendation with Privacy-Preserving Two-Party Graph Convolution Network** [[Paper](https://dl.acm.org/doi/abs/10.1145/3696410.3714721)]
 
     <details close>
     <summary>P4GCN</summary>
@@ -431,7 +463,7 @@ As shown in Figure 1, FCDR integrates information from multiple domains (e.g., m
    <p align="center"><em>The framework of PFCR.</em></p>
    </details>
    
-* (_2025.01_) [COLING' 2025] **FedCSR: A Federated Framework for Multi-Platform Cross-Domain Sequential Recommendation with Dual Contrastive Learning** [[Paper](https://aclanthology.org/2025.coling-main.581.pdf) | [Code](https://github.com/zdy769243418/FedCSR-v1)]
+* (_2025_) [COLING' 2025] **FedCSR: A Federated Framework for Multi-Platform Cross-Domain Sequential Recommendation with Dual Contrastive Learning** [[Paper](https://aclanthology.org/2025.coling-main.581.pdf) | [Code](https://github.com/zdy769243418/FedCSR-v1)]
   
    <details close>
    <summary>FedCSR</summary>
@@ -439,7 +471,7 @@ As shown in Figure 1, FCDR integrates information from multiple domains (e.g., m
    <p align="center"><em>The framework of FedCSR.</em></p>
    </details>
    
-* (_2025.01_) [TCE' 2025] **Oh-FedRec: One-Shot  and Heterogeneous Vertical Federated Recommendation System** [[Paper](https://ieeexplore.ieee.org/document/10849618)]
+* (_2025_) [TCE' 2025] **Oh-FedRec: One-Shot  and Heterogeneous Vertical Federated Recommendation System** [[Paper](https://ieeexplore.ieee.org/document/10849618)]
   
    <details close>
    <summary>Oh-FedRec</summary>
@@ -447,7 +479,7 @@ As shown in Figure 1, FCDR integrates information from multiple domains (e.g., m
    <p align="center"><em>The framework of Oh-FedRec.</em></p>
    </details>
    
-* (_2025.03_) [arXiv' 2025] **Federated Mixture-of-Expert for Non-Overlapped Cross-Domain Sequential Recommendation** [[Paper](https://arxiv.org/abs/2503.13254)]
+* (_2025_) [arXiv' 2025] **Federated Mixture-of-Expert for Non-Overlapped Cross-Domain Sequential Recommendation** [[Paper](https://arxiv.org/abs/2503.13254)]
   
    <details close>
    <summary>FMoE-CDSR</summary>
@@ -455,12 +487,28 @@ As shown in Figure 1, FCDR integrates information from multiple domains (e.g., m
    <p align="center"><em>The framework of FMoE-CDSR.</em></p>
    </details>
    
-* (_2025.07_) [TOIS' 2025] **Federated Semantic Learning for Privacy-preserving Cross-domain Recommendation** [[Paper](https://dl.acm.org/doi/abs/10.1145/3728359) | [Code](https://github.com/Sapphire-star/FFMSR)]
+* (_2025_) [TOIS' 2025] **Federated Semantic Learning for Privacy-preserving Cross-domain Recommendation** [[Paper](https://dl.acm.org/doi/abs/10.1145/3728359) | [Code](https://github.com/Sapphire-star/FFMSR)]
   
    <details close>
    <summary>FFMSR</summary>
    <p align="center"><img width="75%" src="Figures/FFMSR.jpg" /></p>
    <p align="center"><em>The framework of FFMSR.</em></p>
+   </details>
+
+* (_2026_) [WWW' 2026] **Verifiable Federated Representation Learning for Cross-Domain Sequential Recommendation** [[Paper](https://dl.acm.org/doi/10.1145/3774904.3792533) | [Code](https://zenodo.org/records/18315008)]
+  
+   <details close>
+   <summary>VeriFRL</summary>
+   <p align="center"><img width="75%" src="Figures/VeriFRL.png" /></p>
+   <p align="center"><em>The framework of VeriFRL.</em></p>
+   </details>
+
+* (_2026_) [WWW' 2026] **FairFRL: Fairness-Aware Federated Representation Learning for Cross-Domain Sequential Recommendation** [[Paper](https://dl.acm.org/doi/10.1145/3774904.3793003) | [Code](https://zenodo.org/records/18315775)]
+  
+   <details close>
+   <summary>FairFRL</summary>
+   <p align="center"><img width="75%" src="Figures/FairFRL.png" /></p>
+   <p align="center"><em>The framework of FairFRL.</em></p>
    </details>
 
 ## Others
@@ -507,7 +555,7 @@ As shown in Figure 1, FCDR integrates information from multiple domains (e.g., m
      <p align="center"><em>The algorithm of SeSoRec.</em></p>
      </details>
    
-* (_2025.04_) [WWW' 2025] **P4GCN: Vertical Federated Social Recommendation with Privacy-Preserving Two-Party Graph Convolution Network** [[Paper](https://dl.acm.org/doi/abs/10.1145/3696410.3714721)]
+* (_2025_) [WWW' 2025] **P4GCN: Vertical Federated Social Recommendation with Privacy-Preserving Two-Party Graph Convolution Network** [[Paper](https://dl.acm.org/doi/abs/10.1145/3696410.3714721)]
   
    <details close>
      <summary>P4GCN</summary>
@@ -533,7 +581,7 @@ As shown in Figure 1, FCDR integrates information from multiple domains (e.g., m
    <p align="center"><em>The framework of PFCR.</em></p>
    </details>
    
-* (_2025.07_) [TOIS' 2025] **Federated Semantic Learning for Privacy-preserving Cross-domain Recommendation** [[Paper](https://dl.acm.org/doi/abs/10.1145/3728359) | [Code](https://github.com/Sapphire-star/FFMSR)]
+* (_2025_) [TOIS' 2025] **Federated Semantic Learning for Privacy-preserving Cross-domain Recommendation** [[Paper](https://dl.acm.org/doi/abs/10.1145/3728359) | [Code](https://github.com/Sapphire-star/FFMSR)]
   
    <details close>
    <summary>FFMSR</summary>
@@ -541,12 +589,20 @@ As shown in Figure 1, FCDR integrates information from multiple domains (e.g., m
    <p align="center"><em>The framework of FFMSR.</em></p>
    </details>
    
-* (_2025.11_) [CIKM' 2025] **DT-FedSDC: A Dual-Target Federated Framework with Semantic Enhancement and Disentangled Contrastive Learning for Cross-Domain Recommendation** [[Paper](https://dl.acm.org/doi/10.1145/3746252.3761270)]
+* (_2025_) [CIKM' 2025] **DT-FedSDC: A Dual-Target Federated Framework with Semantic Enhancement and Disentangled Contrastive Learning for Cross-Domain Recommendation** [[Paper](https://dl.acm.org/doi/10.1145/3746252.3761270)]
   
    <details close>
    <summary>DT-FedSDC</summary>
    <p align="center"><img width="75%" src="Figures/DT-FedSDC.jpg" /></p>
    <p align="center"><em>The framework of DT-FedSDC.</em></p>
+   </details>
+
+* (_2026_) [Information Processing and Management' 2026] **FedCRF: A Federated Cross-Domain Recommendation Method with Semantic-Driven Deep Knowledge Fusion** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457326002189)]
+  
+   <details close>
+   <summary>FedCRF</summary>
+   <p align="center"><img width="75%" src="Figures/FedCRF.png" /></p>
+   <p align="center"><em>The framework of FedCRF.</em></p>
    </details>
 
 ### Review Text for FCDR
@@ -559,13 +615,21 @@ As shown in Figure 1, FCDR integrates information from multiple domains (e.g., m
   <p align="center"><em>The framework of DPSMRec.</em></p>
   </details>
 
-* (_2025.03_) [TMM' 2025] **Federated User Preference Modeling  for Privacy-Preserving Cross-Domain Recommendation** [[Paper](https://ieeexplore.ieee.org/document/10909694) | [Code](https://github.com/Lili1013/FUPM)]
+* (_2025_) [TMM' 2025] **Federated User Preference Modeling  for Privacy-Preserving Cross-Domain Recommendation** [[Paper](https://ieeexplore.ieee.org/document/10909694) | [Code](https://github.com/Lili1013/FUPM)]
 
   <details close>
   <summary>FUPM</summary>
   <p align="center"><img width="75%" src="Figures/FUPM.jpg" /></p>
   <p align="center"><em>The framework of FUPM.</em></p>
   </details>
+
+* (_2026_) [Neural Networks' 2026] **FedPCL-CDR: A Federated Prototype-Based Contrastive Learning Framework for Privacy-Preserving Cross-Domain Recommendation** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025012614) | [Code](https://github.com/Lili1013/FedPCL_CDR)]
+
+   <details close>
+   <summary>FedPCL-CDR</summary>
+   <p align="center"><img width="75%" src="Figures/FedPCL-CDR.png" /></p>
+   <p align="center"><em>The framework of FedPCL-CDR.</em></p>
+   </details>
 
 ### Knowledge Graph for FCDR
 
@@ -602,7 +666,7 @@ As shown in Figure 1, FCDR integrates information from multiple domains (e.g., m
    <p align="center"><img width="75%" src="Figures/P2M2-CDR.jpg" /></p>
    <p align="center"><em>The framework of P2M2-CDR.</em></p>
    </details>
-* (_2025.04_) [AAAI' 2025] **Enhancing Healthcare Recommendations: A Privacy-Protective and Interpretable Cross-Domain Framework** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33322) | [Code](https://github.com/zyl-mc/HCR)]
+* (_2025_) [AAAI' 2025] **Enhancing Healthcare Recommendations: A Privacy-Protective and Interpretable Cross-Domain Framework** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33322) | [Code](https://github.com/zyl-mc/HCR)]
   
    <details close>
    <summary>HCR</summary>
